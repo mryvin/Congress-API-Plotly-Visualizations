@@ -1,0 +1,4028 @@
+[
+    {
+        "actions_count": 3,
+        "amendments_count": null,
+        "committees_count": null,
+        "cosponsors_count": 3,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "G000386",
+                "party": "R",
+                "state": "IA",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": 1,
+        "title": "A bill to protect children against sexual abuse and exploitation, and for other purposes.",
+        "title_count": 3,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "724",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [],
+        "cosponsors": [
+            {
+                "bioguide_id": "O000174",
+                "party": "D",
+                "state": "GA",
+                "district": null
+            },
+            {
+                "bioguide_id": "Y000064",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000790",
+                "party": "D",
+                "state": "GA",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": null,
+        "cosponsors_count": 48,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B001230",
+                "party": "D",
+                "state": "WI",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to protect a person's ability to determine whether to continue or end a pregnancy, and to protect a health care provider's ability to provide abortion services.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "701",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "Calendars"
+            },
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001277",
+                "party": "D",
+                "state": "CT",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001111",
+                "party": "D",
+                "state": "WA",
+                "district": null
+            },
+            {
+                "bioguide_id": "S000148",
+                "party": "D",
+                "state": "NY",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000817",
+                "party": "D",
+                "state": "MA",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001113",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            },
+            {
+                "bioguide_id": "K000367",
+                "party": "D",
+                "state": "MN",
+                "district": null
+            },
+            {
+                "bioguide_id": "S000770",
+                "party": "D",
+                "state": "MI",
+                "district": null
+            },
+            {
+                "bioguide_id": "G000555",
+                "party": "D",
+                "state": "NY",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001169",
+                "party": "D",
+                "state": "CT",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001267",
+                "party": "D",
+                "state": "CO",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001288",
+                "party": "D",
+                "state": "NJ",
+                "district": null
+            },
+            {
+                "bioguide_id": "B000944",
+                "party": "D",
+                "state": "OH",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000127",
+                "party": "D",
+                "state": "WA",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000141",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000174",
+                "party": "D",
+                "state": "DE",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001088",
+                "party": "D",
+                "state": "DE",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000622",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000563",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            },
+            {
+                "bioguide_id": "F000062",
+                "party": "D",
+                "state": "CA",
+                "district": null
+            },
+            {
+                "bioguide_id": "F000479",
+                "party": "D",
+                "state": "PA",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 3,
+        "amendments_count": null,
+        "committees_count": null,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B001305",
+                "party": "R",
+                "state": "NC",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A resolution to honor the life and death of James Thomas Broyhill, former Senator for the State of North Carolina.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "SRES",
+        "bill_number": "100",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [],
+        "cosponsors": [
+            {
+                "bioguide_id": "T000476",
+                "party": "R",
+                "state": "NC",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 21,
+        "amendments_count": null,
+        "committees_count": 2,
+        "cosponsors_count": 46,
+        "introduced_date": "2023-02-02",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Passed Senate without amendment by Yea-Nay Vote. 81 - 14. Record Vote Number: 49.",
+        "origin_chamber": "House",
+        "policy_area": "Government Operations and Politics",
+        "related_bills_count": 2,
+        "sponsors": [
+            {
+                "bioguideId": "C001116",
+                "party": "R",
+                "state": "GA",
+                "district": 9
+            }
+        ],
+        "subjects_count": 7,
+        "text_versions_count": 3,
+        "title": "Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "HJRES",
+        "bill_number": "26",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-08",
+                "type": "Discharge"
+            },
+            {
+                "date": "2023-03-08",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-02-13",
+                "type": "IntroReferral"
+            },
+            {
+                "date": "2023-02-09",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-02-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-02-02",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Homeland Security and Governmental Affairs Committee",
+                "system_code": "ssga00"
+            },
+            {
+                "name": "Oversight and Accountability Committee",
+                "system_code": "hsgo00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001103",
+                "party": "R",
+                "state": "GA",
+                "district": 1
+            },
+            {
+                "bioguide_id": "W000795",
+                "party": "R",
+                "state": "SC",
+                "district": 2
+            },
+            {
+                "bioguide_id": "G000061",
+                "party": "R",
+                "state": "CA",
+                "district": 27
+            },
+            {
+                "bioguide_id": "P000048",
+                "party": "R",
+                "state": "TX",
+                "district": 11
+            },
+            {
+                "bioguide_id": "A000372",
+                "party": "R",
+                "state": "GA",
+                "district": 12
+            },
+            {
+                "bioguide_id": "F000472",
+                "party": "R",
+                "state": "FL",
+                "district": 18
+            },
+            {
+                "bioguide_id": "B001291",
+                "party": "R",
+                "state": "TX",
+                "district": 36
+            },
+            {
+                "bioguide_id": "L000589",
+                "party": "R",
+                "state": "AZ",
+                "district": 8
+            },
+            {
+                "bioguide_id": "Z000018",
+                "party": "R",
+                "state": "MT",
+                "district": 1
+            },
+            {
+                "bioguide_id": "S001224",
+                "party": "R",
+                "state": "TX",
+                "district": 3
+            },
+            {
+                "bioguide_id": "G000595",
+                "party": "R",
+                "state": "VA",
+                "district": 5
+            },
+            {
+                "bioguide_id": "C001118",
+                "party": "R",
+                "state": "VA",
+                "district": 6
+            },
+            {
+                "bioguide_id": "C001120",
+                "party": "R",
+                "state": "TX",
+                "district": 2
+            },
+            {
+                "bioguide_id": "J000299",
+                "party": "R",
+                "state": "LA",
+                "district": 4
+            },
+            {
+                "bioguide_id": "S001189",
+                "party": "R",
+                "state": "GA",
+                "district": 8
+            },
+            {
+                "bioguide_id": "P000609",
+                "party": "R",
+                "state": "AL",
+                "district": 6
+            },
+            {
+                "bioguide_id": "G000590",
+                "party": "R",
+                "state": "TN",
+                "district": 7
+            },
+            {
+                "bioguide_id": "B001302",
+                "party": "R",
+                "state": "AZ",
+                "district": 5
+            },
+            {
+                "bioguide_id": "C001108",
+                "party": "R",
+                "state": "KY",
+                "district": 1
+            },
+            {
+                "bioguide_id": "C001115",
+                "party": "R",
+                "state": "TX",
+                "district": 27
+            }
+        ],
+        "relatedbills": [
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 12,
+                "related_bill_type": "SJRES"
+            },
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 97,
+                "related_bill_type": "HRES"
+            }
+        ],
+        "subjects": {
+            "legislative_subjects": [
+                "Congressional oversight",
+                "Criminal procedure and sentencing",
+                "District of Columbia",
+                "Due process and equal protection",
+                "State and local government operations",
+                "Violent crime"
+            ],
+            "policy_area": "Government Operations and Politics"
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "C001075",
+                "party": "R",
+                "state": "LA",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Combat-Injured Veterans Tax Fairness Act of 2016 to apply to members of the Coast Guard when the Coast Guard is not operating as a service in the Department of the Navy, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "725",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "W000790",
+                "party": "D",
+                "state": "GA",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 3,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "S001181",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend titles XVIII and XIX of the Social Security Act to provide for coverage of prescription digital therapeutics under such titles, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "723",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001047",
+                "party": "R",
+                "state": "WV",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001288",
+                "party": "D",
+                "state": "NJ",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001243",
+                "party": "R",
+                "state": "TN",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 6,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "K000367",
+                "party": "D",
+                "state": "MN",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Internal Revenue Code of 1986 to permit certain expenses associated with obtaining or maintaining recognized postsecondary credentials to be treated as qualified higher education expenses for purposes of 529 accounts.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "722",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001310",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000622",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001035",
+                "party": "R",
+                "state": "ME",
+                "district": null
+            },
+            {
+                "bioguide_id": "F000062",
+                "party": "D",
+                "state": "CA",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001183",
+                "party": "D",
+                "state": "WV",
+                "district": null
+            },
+            {
+                "bioguide_id": "H001046",
+                "party": "D",
+                "state": "NM",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 5,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Referred to the Committee on Foreign Relations.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "S001181",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A resolution supporting the goals of International Women's Day.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "SRES",
+        "bill_number": "99",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Foreign Relations Committee",
+                "system_code": "ssfr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001035",
+                "party": "R",
+                "state": "ME",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000622",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001230",
+                "party": "D",
+                "state": "WI",
+                "district": null
+            },
+            {
+                "bioguide_id": "K000384",
+                "party": "D",
+                "state": "VA",
+                "district": null
+            },
+            {
+                "bioguide_id": "V000128",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Referred to the Committee on the Judiciary.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "H000273",
+                "party": "D",
+                "state": "CO",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A resolution declaring March 8, 2023, as \"National Emily Warner & Women Airline Pilots Day\".",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "SRES",
+        "bill_number": "98",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Judiciary Committee",
+                "system_code": "ssju00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001267",
+                "party": "D",
+                "state": "CO",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 3,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "H001079",
+                "party": "R",
+                "state": "MS",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to permit policyholders under the National Flood Insurance Program to elect to have previous premium rates remain in effect until the Administrator of the Federal Emergency Management Agency satisfies certain conditions, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "721",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Banking, Housing, and Urban Affairs Committee",
+                "system_code": "ssbk00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001098",
+                "party": "R",
+                "state": "TX",
+                "district": null
+            },
+            {
+                "bioguide_id": "K000393",
+                "party": "R",
+                "state": "LA",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001075",
+                "party": "R",
+                "state": "LA",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "F000463",
+                "party": "R",
+                "state": "NE",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to leverage incentives for the adoption of precision agriculture equipment and technology, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "720",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Agriculture, Nutrition, and Forestry Committee",
+                "system_code": "ssaf00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "K000367",
+                "party": "D",
+                "state": "MN",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "F000463",
+                "party": "R",
+                "state": "NE",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Food, Conservation, and Energy Act of 2008 to establish a precision agriculture loan program, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "719",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Agriculture, Nutrition, and Forestry Committee",
+                "system_code": "ssaf00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "K000367",
+                "party": "D",
+                "state": "MN",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 6,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 27,
+        "introduced_date": "2023-02-09",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.",
+        "origin_chamber": "Senate",
+        "policy_area": "International Affairs",
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "K000384",
+                "party": "D",
+                "state": "VA",
+                "district": null
+            }
+        ],
+        "subjects_count": 1,
+        "text_versions_count": 1,
+        "title": "A bill to repeal the authorizations for use of military force against Iraq.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "316",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "Calendars"
+            },
+            {
+                "date": "2023-03-08",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-02-09",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Foreign Relations Committee",
+                "system_code": "ssfr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "Y000064",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "M000639",
+                "party": "D",
+                "state": "NJ",
+                "district": null
+            },
+            {
+                "bioguide_id": "G000386",
+                "party": "R",
+                "state": "IA",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000563",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            },
+            {
+                "bioguide_id": "L000577",
+                "party": "R",
+                "state": "UT",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001088",
+                "party": "D",
+                "state": "DE",
+                "district": null
+            },
+            {
+                "bioguide_id": "P000603",
+                "party": "R",
+                "state": "KY",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000622",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000618",
+                "party": "R",
+                "state": "MT",
+                "district": null
+            },
+            {
+                "bioguide_id": "H001042",
+                "party": "D",
+                "state": "HI",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001198",
+                "party": "R",
+                "state": "KS",
+                "district": null
+            },
+            {
+                "bioguide_id": "K000383",
+                "party": "I",
+                "state": "ME",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001153",
+                "party": "R",
+                "state": "AK",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001169",
+                "party": "D",
+                "state": "CT",
+                "district": null
+            },
+            {
+                "bioguide_id": "M000934",
+                "party": "R",
+                "state": "KS",
+                "district": null
+            },
+            {
+                "bioguide_id": "L000570",
+                "party": "D",
+                "state": "NM",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001035",
+                "party": "R",
+                "state": "ME",
+                "district": null
+            },
+            {
+                "bioguide_id": "V000128",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001310",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001288",
+                "party": "D",
+                "state": "NJ",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": "International Affairs"
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "P000595",
+                "party": "D",
+                "state": "MI",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to improve plain writing and public experience, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "717",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Homeland Security and Governmental Affairs Committee",
+                "system_code": "ssga00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "L000575",
+                "party": "R",
+                "state": "OK",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": null,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on the Budget.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B001310",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to establish the Federal Rainy Day Fund to control emergency spending.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "718",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Budget Committee",
+                "system_code": "ssbu00"
+            }
+        ],
+        "cosponsors": [],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 10,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on the Judiciary.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "M001198",
+                "party": "R",
+                "state": "KS",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A joint resolution disapproving of the rule submitted by the Department of Homeland Security relating to \"Public Charge Ground of Inadmissibility\".",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "SJRES",
+        "bill_number": "18",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Judiciary Committee",
+                "system_code": "ssju00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001310",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001305",
+                "party": "R",
+                "state": "NC",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000880",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001098",
+                "party": "R",
+                "state": "TX",
+                "district": null
+            },
+            {
+                "bioguide_id": "H000601",
+                "party": "R",
+                "state": "TN",
+                "district": null
+            },
+            {
+                "bioguide_id": "H001089",
+                "party": "R",
+                "state": "MO",
+                "district": null
+            },
+            {
+                "bioguide_id": "H001079",
+                "party": "R",
+                "state": "MS",
+                "district": null
+            },
+            {
+                "bioguide_id": "L000577",
+                "party": "R",
+                "state": "UT",
+                "district": null
+            },
+            {
+                "bioguide_id": "R000584",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            },
+            {
+                "bioguide_id": "S001217",
+                "party": "R",
+                "state": "FL",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 5,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "R000584",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to extend title 42 expulsion authority, to resume border wall system construction, to preserve the exclusive authority of immigration judges over asylum claims, and to codify the Migrant Protection Protocols.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "716",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Homeland Security and Governmental Affairs Committee",
+                "system_code": "ssga00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C000880",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            },
+            {
+                "bioguide_id": "H000601",
+                "party": "R",
+                "state": "TN",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001305",
+                "party": "R",
+                "state": "NC",
+                "district": null
+            },
+            {
+                "bioguide_id": "T000476",
+                "party": "R",
+                "state": "NC",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001236",
+                "party": "R",
+                "state": "AR",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 5,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Referred to the Committee on Foreign Relations.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "R000584",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A resolution expressing concern about economic and security conditions in Mexico and reaffirming the interest of the United States in mutually beneficial relations with Mexico based on shared interests on security, economic prosperity, and democratic values, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "SRES",
+        "bill_number": "97",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Foreign Relations Committee",
+                "system_code": "ssfr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "H000601",
+                "party": "R",
+                "state": "TN",
+                "district": null
+            },
+            {
+                "bioguide_id": "C001098",
+                "party": "R",
+                "state": "TX",
+                "district": null
+            },
+            {
+                "bioguide_id": "R000595",
+                "party": "R",
+                "state": "FL",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000437",
+                "party": "R",
+                "state": "MS",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001261",
+                "party": "R",
+                "state": "WY",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": null,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on the Budget.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B001261",
+                "party": "R",
+                "state": "WY",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to require that any debt limit increase or suspension be balanced by equal spending cuts over the next decade.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "714",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Budget Committee",
+                "system_code": "ssbu00"
+            }
+        ],
+        "cosponsors": [],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": null,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on the Judiciary.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "C001095",
+                "party": "R",
+                "state": "AR",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend section 3624 of title 18, United States Code, to require carjackers to serve their prison sentences.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "713",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Judiciary Committee",
+                "system_code": "ssju00"
+            }
+        ],
+        "cosponsors": [],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B001310",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to require the Executive Office of the President to provide an inflation estimate with respect to Executive orders with a significant effect on the annual gross budget, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "715",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Homeland Security and Governmental Affairs Committee",
+                "system_code": "ssga00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "S001217",
+                "party": "R",
+                "state": "FL",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 6,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Referred to the Committee on Commerce, Science, and Transportation.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "R000584",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A resolution celebrating the extraordinary accomplishments and vital role of women business owners in the United States.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "SRES",
+        "bill_number": "96",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Commerce, Science, and Transportation Committee",
+                "system_code": "sscm00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C000141",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            },
+            {
+                "bioguide_id": "E000295",
+                "party": "R",
+                "state": "IA",
+                "district": null
+            },
+            {
+                "bioguide_id": "S001181",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000880",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            },
+            {
+                "bioguide_id": "R000608",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            },
+            {
+                "bioguide_id": "H000273",
+                "party": "D",
+                "state": "CO",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 5,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "C001075",
+                "party": "R",
+                "state": "LA",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to identify and address barriers to coverage of remote physiologic devices under State Medicaid programs to improve maternal and child health outcomes for pregnant and postpartum women.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "712",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "H001076",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            },
+            {
+                "bioguide_id": "Y000064",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000174",
+                "party": "D",
+                "state": "DE",
+                "district": null
+            },
+            {
+                "bioguide_id": "T000250",
+                "party": "R",
+                "state": "SD",
+                "district": null
+            },
+            {
+                "bioguide_id": "R000608",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 3,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B001305",
+                "party": "R",
+                "state": "NC",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to require the Secretary of the Treasury to mint coins in commemoration of the invaluable service that working dogs provide to society.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "711",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Banking, Housing, and Urban Affairs Committee",
+                "system_code": "ssbk00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "K000377",
+                "party": "D",
+                "state": "AZ",
+                "district": null
+            },
+            {
+                "bioguide_id": "T000476",
+                "party": "R",
+                "state": "NC",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000622",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 12,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B000944",
+                "party": "D",
+                "state": "OH",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to prohibit an employer from terminating the coverage of an employee under a group health plan while the employer is engaged in a lock-out or while the employee is engaged in a lawful strike, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "710",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Health, Education, Labor, and Pensions Committee",
+                "system_code": "sshr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001070",
+                "party": "D",
+                "state": "PA",
+                "district": null
+            },
+            {
+                "bioguide_id": "S000033",
+                "party": "I",
+                "state": "VT",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001230",
+                "party": "D",
+                "state": "WI",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001277",
+                "party": "D",
+                "state": "CT",
+                "district": null
+            },
+            {
+                "bioguide_id": "F000479",
+                "party": "D",
+                "state": "PA",
+                "district": null
+            },
+            {
+                "bioguide_id": "M000133",
+                "party": "D",
+                "state": "MA",
+                "district": null
+            },
+            {
+                "bioguide_id": "P000145",
+                "party": "D",
+                "state": "CA",
+                "district": null
+            },
+            {
+                "bioguide_id": "S001203",
+                "party": "D",
+                "state": "MN",
+                "district": null
+            },
+            {
+                "bioguide_id": "V000128",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000817",
+                "party": "D",
+                "state": "MA",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000802",
+                "party": "D",
+                "state": "RI",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000563",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "P000595",
+                "party": "D",
+                "state": "MI",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to improve performance and accountability in the Federal Government, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "709",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Homeland Security and Governmental Affairs Committee",
+                "system_code": "ssga00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001310",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B000944",
+                "party": "D",
+                "state": "OH",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to improve outcomes for Medicaid beneficiaries with major depressive disorder or other mental health conditions.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "708",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "S001184",
+                "party": "R",
+                "state": "SC",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 17,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "C001035",
+                "party": "R",
+                "state": "ME",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Animal Welfare Act to allow for the retirement of certain animals used in Federal research, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "707",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Agriculture, Nutrition, and Forestry Committee",
+                "system_code": "ssaf00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "P000595",
+                "party": "D",
+                "state": "MI",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000802",
+                "party": "D",
+                "state": "RI",
+                "district": null
+            },
+            {
+                "bioguide_id": "H000273",
+                "party": "D",
+                "state": "CO",
+                "district": null
+            },
+            {
+                "bioguide_id": "H001076",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000817",
+                "party": "D",
+                "state": "MA",
+                "district": null
+            },
+            {
+                "bioguide_id": "S001203",
+                "party": "D",
+                "state": "MN",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001288",
+                "party": "D",
+                "state": "NJ",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000790",
+                "party": "D",
+                "state": "GA",
+                "district": null
+            },
+            {
+                "bioguide_id": "R000608",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            },
+            {
+                "bioguide_id": "D000622",
+                "party": "D",
+                "state": "IL",
+                "district": null
+            },
+            {
+                "bioguide_id": "K000383",
+                "party": "I",
+                "state": "ME",
+                "district": null
+            },
+            {
+                "bioguide_id": "P000145",
+                "party": "D",
+                "state": "CA",
+                "district": null
+            },
+            {
+                "bioguide_id": "F000062",
+                "party": "D",
+                "state": "CA",
+                "district": null
+            },
+            {
+                "bioguide_id": "V000128",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            },
+            {
+                "bioguide_id": "S001181",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000174",
+                "party": "D",
+                "state": "DE",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001176",
+                "party": "D",
+                "state": "OR",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "C001113",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to withdraw the National Forest System land in the Ruby Mountains subdistrict of the Humboldt-Toiyabe National Forest and the National Wildlife Refuge System land in Ruby Lake National Wildlife Refuge, Elko and White Pine Counties, Nevada, from operation under the mineral leasing laws.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "706",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Energy and Natural Resources Committee",
+                "system_code": "sseg00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "R000608",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "R000608",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Public Health Service Act to authorize a loan repayment program to encourage specialty medicine physicians to serve in rural communities experiencing a shortage of specialty medicine physicians, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "705",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Health, Education, Labor, and Pensions Committee",
+                "system_code": "sshr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "W000437",
+                "party": "R",
+                "state": "MS",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "R000608",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Higher Education Act of 1965 to provide for interest-free deferment on student loans for borrowers serving in a medical or dental internship or residency program.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "704",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Health, Education, Labor, and Pensions Committee",
+                "system_code": "sshr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001236",
+                "party": "R",
+                "state": "AR",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "R000608",
+                "party": "D",
+                "state": "NV",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend title XVIII of the Social Security Act to make improvements to the redistribution of residency slots under the Medicare program after a hospital closes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "703",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001236",
+                "party": "R",
+                "state": "AR",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 2,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Environment and Public Works.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "S001191",
+                "party": "I",
+                "state": "AZ",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to require the Administrator of the Environmental Protection Agency, the Secretary of the Interior, and the Secretary of Agriculture to maintain the Urban Waters Federal Partnership Program, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "702",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Environment and Public Works Committee",
+                "system_code": "ssev00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001056",
+                "party": "R",
+                "state": "TX",
+                "district": null
+            },
+            {
+                "bioguide_id": "K000377",
+                "party": "D",
+                "state": "AZ",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 15,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Rules and Administration.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "W000779",
+                "party": "D",
+                "state": "OR",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Help America Vote Act of 2002 to allow all eligible voters to vote by mail in Federal elections, to amend the National Voter Registration Act of 1993 to provide for automatic voter registration.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "700",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Rules and Administration Committee",
+                "system_code": "ssra00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "S001194",
+                "party": "D",
+                "state": "HI",
+                "district": null
+            },
+            {
+                "bioguide_id": "M000133",
+                "party": "D",
+                "state": "MA",
+                "district": null
+            },
+            {
+                "bioguide_id": "F000062",
+                "party": "D",
+                "state": "CA",
+                "district": null
+            },
+            {
+                "bioguide_id": "V000128",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001288",
+                "party": "D",
+                "state": "NJ",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000817",
+                "party": "D",
+                "state": "MA",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001277",
+                "party": "D",
+                "state": "CT",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000127",
+                "party": "D",
+                "state": "WA",
+                "district": null
+            },
+            {
+                "bioguide_id": "C000174",
+                "party": "D",
+                "state": "DE",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001169",
+                "party": "D",
+                "state": "CT",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000802",
+                "party": "D",
+                "state": "RI",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001230",
+                "party": "D",
+                "state": "WI",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000800",
+                "party": "D",
+                "state": "VT",
+                "district": null
+            },
+            {
+                "bioguide_id": "B000944",
+                "party": "D",
+                "state": "OH",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001176",
+                "party": "D",
+                "state": "OR",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "H001076",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend title VI of the Social Security Act to expand foster parent training and authorize new appropriations to support the obtainment of a driver's license.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "699",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "Y000064",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": null,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "R000584",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Agricultural Act of 2014 to modify the treatment of revenue from timber sale contracts and certain payments made by counties to the Secretary of Agriculture and the Secretary of the Interior under good neighbor agreements, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "697",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Agriculture, Nutrition, and Forestry Committee",
+                "system_code": "ssaf00"
+            }
+        ],
+        "cosponsors": [],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "M001198",
+                "party": "R",
+                "state": "KS",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to direct the Secretary of State to designate certain Mexican drug cartels as foreign terrorist organizations, and to submit a report to Congress justifying such designations in accordance with section 219 of the Immigration and Nationality Act.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "698",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Foreign Relations Committee",
+                "system_code": "ssfr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "S001217",
+                "party": "R",
+                "state": "FL",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 12,
+        "amendments_count": null,
+        "committees_count": 2,
+        "cosponsors_count": 2,
+        "introduced_date": "2023-02-28",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+        "origin_chamber": "House",
+        "policy_area": "Armed Forces and National Security",
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "A000371",
+                "party": "D",
+                "state": "CA",
+                "district": 33
+            }
+        ],
+        "subjects_count": 1,
+        "text_versions_count": 2,
+        "title": "Wounded Warrior Access Act",
+        "title_count": 4,
+        "congress": 118,
+        "bill_type": "HR",
+        "bill_number": "1226",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            },
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-02-28",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Veterans' Affairs Committee",
+                "system_code": "ssva00"
+            },
+            {
+                "name": "Veterans' Affairs Committee",
+                "system_code": "hsvr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "L000599",
+                "party": "R",
+                "state": "NY",
+                "district": 17
+            },
+            {
+                "bioguide_id": "S000929",
+                "party": "R",
+                "state": "IN",
+                "district": 5
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": "Armed Forces and National Security"
+        }
+    },
+    {
+        "actions_count": 12,
+        "amendments_count": null,
+        "committees_count": 2,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-02-21",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+        "origin_chamber": "House",
+        "policy_area": "Science, Technology, Communications",
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "E000215",
+                "party": "D",
+                "state": "CA",
+                "district": 16
+            }
+        ],
+        "subjects_count": 6,
+        "text_versions_count": 2,
+        "title": "Understanding Cybersecurity of Mobile Networks Act",
+        "title_count": 4,
+        "congress": 118,
+        "bill_type": "HR",
+        "bill_number": "1123",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            },
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-02-21",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Commerce, Science, and Transportation Committee",
+                "system_code": "sscm00"
+            },
+            {
+                "name": "Energy and Commerce Committee",
+                "system_code": "hsif00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001039",
+                "party": "R",
+                "state": "FL",
+                "district": 3
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [
+                "Computer security and identity theft",
+                "Congressional oversight",
+                "Consumer affairs",
+                "Homeland security",
+                "Telephone and wireless communication"
+            ],
+            "policy_area": "Science, Technology, Communications"
+        }
+    },
+    {
+        "actions_count": 11,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 6,
+        "introduced_date": "2023-02-02",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Received in the Senate.",
+        "origin_chamber": "House",
+        "policy_area": "Armed Forces and National Security",
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "M001159",
+                "party": "R",
+                "state": "WA",
+                "district": 5
+            }
+        ],
+        "subjects_count": 5,
+        "text_versions_count": 2,
+        "title": "RELIEVE Act",
+        "title_count": 6,
+        "congress": 118,
+        "bill_type": "HR",
+        "bill_number": "815",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            },
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-01",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-02-02",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Veterans' Affairs Committee",
+                "system_code": "hsvr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001301",
+                "party": "R",
+                "state": "MI",
+                "district": 1
+            },
+            {
+                "bioguide_id": "P000614",
+                "party": "D",
+                "state": "NH",
+                "district": 1
+            },
+            {
+                "bioguide_id": "M001215",
+                "party": "R",
+                "state": "IA",
+                "district": 1
+            },
+            {
+                "bioguide_id": "L000564",
+                "party": "R",
+                "state": "CO",
+                "district": 5
+            },
+            {
+                "bioguide_id": "L000599",
+                "party": "R",
+                "state": "NY",
+                "district": 17
+            },
+            {
+                "bioguide_id": "S000929",
+                "party": "R",
+                "state": "IN",
+                "district": 5
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [
+                "Health care costs and insurance",
+                "Health care coverage and access",
+                "Veterans' medical care",
+                "Veterans' pensions and compensation"
+            ],
+            "policy_area": "Armed Forces and National Security"
+        }
+    },
+    {
+        "actions_count": 12,
+        "amendments_count": null,
+        "committees_count": 2,
+        "cosponsors_count": 2,
+        "introduced_date": "2023-01-25",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Received in the Senate.",
+        "origin_chamber": "House",
+        "policy_area": "Armed Forces and National Security",
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "B001299",
+                "party": "R",
+                "state": "IN",
+                "district": 3
+            }
+        ],
+        "subjects_count": 3,
+        "text_versions_count": 2,
+        "title": "To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs repays members of the Armed Forces for certain contributions made by such members towards Post-9/11 Educational Assistance, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "HR",
+        "bill_number": "502",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            },
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-02-08",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-01-25",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Veterans' Affairs Committee",
+                "system_code": "hsvr00"
+            },
+            {
+                "name": "Budget Committee",
+                "system_code": "hsbu00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "P000614",
+                "party": "D",
+                "state": "NH",
+                "district": 1
+            },
+            {
+                "bioguide_id": "V000135",
+                "party": "R",
+                "state": "WI",
+                "district": 3
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [
+                "Administrative remedies",
+                "Veterans' education, employment, rehabilitation"
+            ],
+            "policy_area": "Armed Forces and National Security"
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 4,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on the Judiciary.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "T000278",
+                "party": "R",
+                "state": "AL",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to authorize the Secretary of Homeland Security to suspend the entry of aliens in order to achieve operational control of the border, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "696",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Judiciary Committee",
+                "system_code": "ssju00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001319",
+                "party": "R",
+                "state": "AL",
+                "district": null
+            },
+            {
+                "bioguide_id": "V000137",
+                "party": "R",
+                "state": "OH",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001243",
+                "party": "R",
+                "state": "TN",
+                "district": null
+            },
+            {
+                "bioguide_id": "L000577",
+                "party": "R",
+                "state": "UT",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": null,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "C001098",
+                "party": "R",
+                "state": "TX",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to repeal the provisions of the Infrastructure Investment and Jobs Act that impose new information reporting requirements with respect to digital asset transfers.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "695",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 3,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 3,
+        "introduced_date": "2023-02-16",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "M000639",
+                "party": "D",
+                "state": "NJ",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to provide resources for United States nationals unlawfully or wrongfully detained abroad, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "509",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-02-16",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Foreign Relations Committee",
+                "system_code": "ssfr00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "R000584",
+                "party": "R",
+                "state": "ID",
+                "district": null
+            },
+            {
+                "bioguide_id": "S001181",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            },
+            {
+                "bioguide_id": "H000601",
+                "party": "R",
+                "state": "TN",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 2,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 1,
+        "introduced_date": "2023-03-08",
+        "latest_action_date": "2023-03-08",
+        "latest_action_text": "Read twice and referred to the Committee on Finance.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "Y000064",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": null,
+        "title": "A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on heavy trucks and trailers, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "694",
+        "actions": [
+            {
+                "date": "2023-03-08",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Finance Committee",
+                "system_code": "ssfi00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "C000141",
+                "party": "D",
+                "state": "MD",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 5,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": null,
+        "introduced_date": "2023-03-07",
+        "latest_action_date": "2023-03-07",
+        "latest_action_text": "Placed on the House Calendar, Calendar No. 5.",
+        "origin_chamber": "House",
+        "policy_area": null,
+        "related_bills_count": 5,
+        "sponsors": [
+            {
+                "bioguideId": "M001184",
+                "party": "R",
+                "state": "KY",
+                "district": 4
+            }
+        ],
+        "subjects_count": null,
+        "text_versions_count": 1,
+        "title": "Providing for consideration of the bill (H.R. 140) to amend title 5, United States Code, to prohibit Federal employees from advocating for censorship of viewpoints in their official capacity, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 27) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency relating to \"Revised Definition of 'Waters of the United States'\"; and providing for consideration of the bill (S. 619) to require the Director of National Intelligence to declassify information relating to the origin of COVID-19, and for other purposes.",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "HRES",
+        "bill_number": "199",
+        "actions": [
+            {
+                "date": "2023-03-07",
+                "type": "Calendars"
+            },
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-07",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-03-07",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Rules Committee",
+                "system_code": "hsru00"
+            }
+        ],
+        "cosponsors": [],
+        "relatedbills": [
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 27,
+                "related_bill_type": "HJRES"
+            },
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 140,
+                "related_bill_type": "HR"
+            },
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 619,
+                "related_bill_type": "S"
+            }
+        ],
+        "subjects": {
+            "legislative_subjects": [],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 7,
+        "amendments_count": null,
+        "committees_count": null,
+        "cosponsors_count": 4,
+        "introduced_date": "2023-03-01",
+        "latest_action_date": "2023-03-07",
+        "latest_action_text": "Rules Committee Resolution H. Res. 199 Reported to House. Rule provides for consideration of H.R. 140, H.J. Res. 27 and S. 619. The resolution provides for consideration of H.R. 140, under a structured rule. The resolution provides for consideration of H.J.Res. 27 and S. 619, under closed rules. General debate is limited to one hour of debate on all measures.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": 1,
+        "sponsors": [
+            {
+                "bioguideId": "H001089",
+                "party": "R",
+                "state": "MO",
+                "district": null
+            }
+        ],
+        "subjects_count": 8,
+        "text_versions_count": 2,
+        "title": "COVID\u201319 Origin Act of 2023",
+        "title_count": 4,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "619",
+        "actions": [
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-03",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-02",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-01",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-01",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [],
+        "cosponsors": [
+            {
+                "bioguide_id": "B001310",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "M001198",
+                "party": "R",
+                "state": "KS",
+                "district": null
+            },
+            {
+                "bioguide_id": "L000577",
+                "party": "R",
+                "state": "UT",
+                "district": null
+            },
+            {
+                "bioguide_id": "S001217",
+                "party": "R",
+                "state": "FL",
+                "district": null
+            }
+        ],
+        "relatedbills": [
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 199,
+                "related_bill_type": "HRES"
+            }
+        ],
+        "subjects": {
+            "legislative_subjects": [
+                "Asia",
+                "Cardiovascular and respiratory health",
+                "China",
+                "Congressional oversight",
+                "Director of National Intelligence",
+                "Government studies and investigations",
+                "Infectious and parasitic diseases",
+                "Intelligence activities, surveillance, classified information"
+            ],
+            "policy_area": null
+        }
+    },
+    {
+        "actions_count": 11,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 170,
+        "introduced_date": "2023-02-02",
+        "latest_action_date": "2023-03-07",
+        "latest_action_text": "Rules Committee Resolution H. Res. 199 Reported to House. Rule provides for consideration of H.R. 140, H.J. Res. 27 and S. 619. The resolution provides for consideration of H.R. 140, under a structured rule. The resolution provides for consideration of H.J.Res. 27 and S. 619, under closed rules. General debate is limited to one hour of debate on all measures.",
+        "origin_chamber": "House",
+        "policy_area": "Environmental Protection",
+        "related_bills_count": 3,
+        "sponsors": [
+            {
+                "bioguideId": "G000546",
+                "party": "R",
+                "state": "MO",
+                "district": 6
+            }
+        ],
+        "subjects_count": 11,
+        "text_versions_count": 2,
+        "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency relating to \"Revised Definition of 'Waters of the United States'\".",
+        "title_count": 2,
+        "congress": 118,
+        "bill_type": "HJRES",
+        "bill_number": "27",
+        "actions": [
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-03",
+                "type": "Calendars"
+            },
+            {
+                "date": "2023-03-03",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-02-28",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-02-03",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-02-02",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Transportation and Infrastructure Committee",
+                "system_code": "hspw00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "S001212",
+                "party": "R",
+                "state": "MN",
+                "district": 8
+            },
+            {
+                "bioguide_id": "N000189",
+                "party": "R",
+                "state": "WA",
+                "district": 4
+            },
+            {
+                "bioguide_id": "M001177",
+                "party": "R",
+                "state": "CA",
+                "district": 5
+            },
+            {
+                "bioguide_id": "M001211",
+                "party": "R",
+                "state": "IL",
+                "district": 15
+            },
+            {
+                "bioguide_id": "R000575",
+                "party": "R",
+                "state": "AL",
+                "district": 3
+            },
+            {
+                "bioguide_id": "A000369",
+                "party": "R",
+                "state": "NV",
+                "district": 2
+            },
+            {
+                "bioguide_id": "B001295",
+                "party": "R",
+                "state": "IL",
+                "district": 12
+            },
+            {
+                "bioguide_id": "N000026",
+                "party": "R",
+                "state": "TX",
+                "district": 22
+            },
+            {
+                "bioguide_id": "M000871",
+                "party": "R",
+                "state": "KS",
+                "district": 1
+            },
+            {
+                "bioguide_id": "J000299",
+                "party": "R",
+                "state": "LA",
+                "district": 4
+            },
+            {
+                "bioguide_id": "R000603",
+                "party": "R",
+                "state": "NC",
+                "district": 7
+            },
+            {
+                "bioguide_id": "S001148",
+                "party": "R",
+                "state": "ID",
+                "district": 2
+            },
+            {
+                "bioguide_id": "M001215",
+                "party": "R",
+                "state": "IA",
+                "district": 1
+            },
+            {
+                "bioguide_id": "W000821",
+                "party": "R",
+                "state": "AR",
+                "district": 4
+            },
+            {
+                "bioguide_id": "L000595",
+                "party": "R",
+                "state": "LA",
+                "district": 5
+            },
+            {
+                "bioguide_id": "V000129",
+                "party": "R",
+                "state": "CA",
+                "district": 22
+            },
+            {
+                "bioguide_id": "B001309",
+                "party": "R",
+                "state": "TN",
+                "district": 2
+            },
+            {
+                "bioguide_id": "H001091",
+                "party": "R",
+                "state": "IA",
+                "district": 2
+            },
+            {
+                "bioguide_id": "P000605",
+                "party": "R",
+                "state": "PA",
+                "district": 10
+            },
+            {
+                "bioguide_id": "C001087",
+                "party": "R",
+                "state": "AR",
+                "district": 1
+            }
+        ],
+        "relatedbills": [
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 199,
+                "related_bill_type": "HRES"
+            },
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 7,
+                "related_bill_type": "SJRES"
+            }
+        ],
+        "subjects": {
+            "legislative_subjects": [
+                "Administrative law and regulatory procedures",
+                "Aquatic ecology",
+                "Army Corps of Engineers",
+                "Congressional oversight",
+                "Environmental Protection Agency (EPA)",
+                "Environmental regulatory procedures",
+                "Lakes and rivers",
+                "Marine pollution",
+                "Water quality",
+                "Wetlands"
+            ],
+            "policy_area": "Environmental Protection"
+        }
+    },
+    {
+        "actions_count": 9,
+        "amendments_count": null,
+        "committees_count": 1,
+        "cosponsors_count": 16,
+        "introduced_date": "2023-01-09",
+        "latest_action_date": "2023-03-07",
+        "latest_action_text": "Rules Committee Resolution H. Res. 199 Reported to House. Rule provides for consideration of H.R. 140, H.J. Res. 27 and S. 619. The resolution provides for consideration of H.R. 140, under a structured rule. The resolution provides for consideration of H.J.Res. 27 and S. 619, under closed rules. General debate is limited to one hour of debate on all measures.",
+        "origin_chamber": "House",
+        "policy_area": "Government Operations and Politics",
+        "related_bills_count": 2,
+        "sponsors": [
+            {
+                "bioguideId": "C001108",
+                "party": "R",
+                "state": "KY",
+                "district": 1
+            }
+        ],
+        "subjects_count": 5,
+        "text_versions_count": 2,
+        "title": "Protecting Speech from Government Interference Act",
+        "title_count": 4,
+        "congress": 118,
+        "bill_type": "HR",
+        "bill_number": "140",
+        "actions": [
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-02",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-03-02",
+                "type": "Calendars"
+            },
+            {
+                "date": "2023-02-28",
+                "type": "Committee"
+            },
+            {
+                "date": "2023-01-09",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [
+            {
+                "name": "Oversight and Accountability Committee",
+                "system_code": "hsgo00"
+            }
+        ],
+        "cosponsors": [
+            {
+                "bioguide_id": "J000289",
+                "party": "R",
+                "state": "OH",
+                "district": 4
+            },
+            {
+                "bioguide_id": "M001159",
+                "party": "R",
+                "state": "WA",
+                "district": 5
+            },
+            {
+                "bioguide_id": "G000576",
+                "party": "R",
+                "state": "WI",
+                "district": 6
+            },
+            {
+                "bioguide_id": "B001302",
+                "party": "R",
+                "state": "AZ",
+                "district": 5
+            },
+            {
+                "bioguide_id": "L000600",
+                "party": "R",
+                "state": "NY",
+                "district": 23
+            },
+            {
+                "bioguide_id": "M000194",
+                "party": "R",
+                "state": "SC",
+                "district": 1
+            },
+            {
+                "bioguide_id": "L000596",
+                "party": "R",
+                "state": "FL",
+                "district": 13
+            },
+            {
+                "bioguide_id": "B001309",
+                "party": "R",
+                "state": "TN",
+                "district": 2
+            },
+            {
+                "bioguide_id": "H001077",
+                "party": "R",
+                "state": "LA",
+                "district": 3
+            },
+            {
+                "bioguide_id": "S000250",
+                "party": "R",
+                "state": "TX",
+                "district": 17
+            },
+            {
+                "bioguide_id": "E000246",
+                "party": "R",
+                "state": "NC",
+                "district": 11
+            },
+            {
+                "bioguide_id": "L000266",
+                "party": "R",
+                "state": "KS",
+                "district": 2
+            },
+            {
+                "bioguide_id": "G000565",
+                "party": "R",
+                "state": "AZ",
+                "district": 9
+            },
+            {
+                "bioguide_id": "F000478",
+                "party": "R",
+                "state": "SC",
+                "district": 7
+            },
+            {
+                "bioguide_id": "M001136",
+                "party": "R",
+                "state": "MI",
+                "district": 9
+            },
+            {
+                "bioguide_id": "G000596",
+                "party": "R",
+                "state": "GA",
+                "district": 14
+            }
+        ],
+        "relatedbills": [
+            {
+                "related_bill_congress": 118,
+                "related_bill_number": 199,
+                "related_bill_type": "HRES"
+            }
+        ],
+        "subjects": {
+            "legislative_subjects": [
+                "Employment discrimination and employee rights",
+                "First Amendment rights",
+                "Government employee pay, benefits, personnel management",
+                "Internet, web applications, social media"
+            ],
+            "policy_area": "Government Operations and Politics"
+        }
+    },
+    {
+        "actions_count": 6,
+        "amendments_count": null,
+        "committees_count": null,
+        "cosponsors_count": 12,
+        "introduced_date": "2023-03-02",
+        "latest_action_date": "2023-03-07",
+        "latest_action_text": "Held at the desk.",
+        "origin_chamber": "Senate",
+        "policy_area": null,
+        "related_bills_count": null,
+        "sponsors": [
+            {
+                "bioguideId": "G000386",
+                "party": "R",
+                "state": "IA",
+                "district": null
+            }
+        ],
+        "subjects_count": 8,
+        "text_versions_count": 2,
+        "title": "Fighting Post-Traumatic Stress Disorder Act of 2023",
+        "title_count": 4,
+        "congress": 118,
+        "bill_type": "S",
+        "bill_number": "645",
+        "actions": [
+            {
+                "date": "2023-03-07",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-02",
+                "type": "Floor"
+            },
+            {
+                "date": "2023-03-02",
+                "type": "IntroReferral"
+            }
+        ],
+        "committees": [],
+        "cosponsors": [
+            {
+                "bioguide_id": "C001088",
+                "party": "D",
+                "state": "DE",
+                "district": null
+            },
+            {
+                "bioguide_id": "Y000064",
+                "party": "R",
+                "state": "IN",
+                "district": null
+            },
+            {
+                "bioguide_id": "B000944",
+                "party": "D",
+                "state": "OH",
+                "district": null
+            },
+            {
+                "bioguide_id": "H001089",
+                "party": "R",
+                "state": "MO",
+                "district": null
+            },
+            {
+                "bioguide_id": "H001076",
+                "party": "D",
+                "state": "NH",
+                "district": null
+            },
+            {
+                "bioguide_id": "K000393",
+                "party": "R",
+                "state": "LA",
+                "district": null
+            },
+            {
+                "bioguide_id": "F000062",
+                "party": "D",
+                "state": "CA",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001243",
+                "party": "R",
+                "state": "TN",
+                "district": null
+            },
+            {
+                "bioguide_id": "B001277",
+                "party": "D",
+                "state": "CT",
+                "district": null
+            },
+            {
+                "bioguide_id": "O000174",
+                "party": "D",
+                "state": "GA",
+                "district": null
+            },
+            {
+                "bioguide_id": "E000295",
+                "party": "R",
+                "state": "IA",
+                "district": null
+            },
+            {
+                "bioguide_id": "W000790",
+                "party": "D",
+                "state": "GA",
+                "district": null
+            }
+        ],
+        "relatedbills": [],
+        "subjects": {
+            "legislative_subjects": [
+                "Congressional oversight",
+                "First responders and emergency personnel",
+                "Government information and archives",
+                "Health promotion and preventive care",
+                "Law enforcement administration and funding",
+                "Law enforcement officers",
+                "Mental health",
+                "Neurological disorders"
+            ],
+            "policy_area": null
+        }
+    }
+]
