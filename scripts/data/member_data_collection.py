@@ -1,51 +1,69 @@
 import json
 import os
-
-from dotenv import load_dotenv
 import requests
+from dotenv import load_dotenv
 
-### CONSTANTS
+# Load environment variables
 load_dotenv()
+
+# Set API key and limit constants
 API_KEY = os.getenv("API_KEY")
 LIMIT = 250 # default 20, max 250
 
 def get_members():
+    """
+    Fetches members from the API and writes their details to a JSON file.
+    """
     offset = 0
     members = []
+
+    # Fetch members in batches of size LIMIT
     while True:
-        print(f"Getting members [{offset}, {offset + LIMIT})")
+        print(f"Fetching members [{offset}, {offset + LIMIT})")
+
+        # Make API request
         r = requests.get("https://api.congress.gov/v3/member", params={"api_key": API_KEY, "offset": offset, "limit": LIMIT})
+
+        # Check for successful request
         if r.status_code != 200:
             print("Error with API request")
+            break
+
+        # Extract member IDs
         r_members = r.json()["members"]
-        # print(r_members)
         if not r_members:
             break
         for r_member in r_members:
             members.append(r_member["member"]["bioguideId"])
-        offset += 250
-        if offset >= 500: break # TODO: remove this later
 
+        # Update offset for next batch
+        offset += LIMIT
+
+    # Write member IDs to file
     with open("members.json", "w") as f:
         f.write(json.dumps(members))
 
-    members_with_details = []
-    for member in members:
-        members_with_details.append(get_member_details(member))
-
+    # Fetch and write member details
+    members_with_details = [get_member_details(member) for member in members]
     with open("members_with_details.json", "w") as f:
         f.write(json.dumps(members_with_details))
 
 def get_member_details(bioguide_id):
-    print(f"Getting details for {bioguide_id}")
+    """
+    Fetches and returns details for a specific member.
+    """
+    print(f"Fetching details for {bioguide_id}")
+
+    # Make API request
     r = requests.get(f"https://api.congress.gov/v3/member/{bioguide_id}", params={"api_key": API_KEY})
+
+    # Check for successful request
     if r.status_code != 200:
         print("Error with API request")
+        return {}
+
+    # Extract member details
     r_member = r.json()["member"]
-    # NOTE: double check how to accurately get party, district, state
-    # print(r_member)
-    # print(r_member.get("terms", [{}])[-1].get("termBeginYear"))
-    # print(int(r_member.get("deathYear", "2023")) - int(r_member.get("birthYear")))
     return {
         "bioguide_id": bioguide_id,
         "birth_year": r_member.get("birthYear"),
